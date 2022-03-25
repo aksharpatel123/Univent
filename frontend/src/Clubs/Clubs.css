@@ -1,0 +1,10 @@
+.featured-text {
+  text-align: center;
+  /* font-family: "Brush Script MT", Times, serif; */
+  font: italic 1.2em "Fira Sans", serif;
+  font-size: 3rem;
+}
+
+.basic-title-styles {
+  margin-left: 1rem;
+}

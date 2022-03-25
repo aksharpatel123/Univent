@@ -1,0 +1,86 @@
+{
+  "id": "123",
+  "FEATURED_CLUBS": [
+    {
+      "clubName": "Volleyball Association",
+      "id": "c1",
+      "image": "https://images.pexels.com/photos/839011/pexels-photo-839011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "description": "We play volleyball.",
+      "symbol": "https://images.pexels.com/photos/839011/pexels-photo-839011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "category": "Recreational/Sports"
+    },
+    {
+      "clubName": "Accounting Society",
+      "id": "c2",
+      "image": "https://images.pexels.com/photos/839011/pexels-photo-839011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "description": "Whats new in counting things...",
+      "symbol": "https://images.pexels.com/photos/839011/pexels-photo-839011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "category": "Academic Associations"
+    },
+    {
+      "clubName": "Aero Mavericks",
+      "id": "c3",
+      "image": "https://images.pexels.com/photos/839011/pexels-photo-839011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "description": "We are aerospace engineering student organization",
+      "symbol": "https://images.pexels.com/photos/839011/pexels-photo-839011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "category": "Academic Associations"
+    }
+    ],
+    "CLUBS": [
+      {
+        "clubName": "Volleyball Association",
+        "id": "c1",
+        "image": "https://images.pexels.com/photos/839011/pexels-photo-839011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "description": "We play volleyball.",
+        "symbol": "https://images.pexels.com/photos/839011/pexels-photo-839011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "category": "Recreational/Sports"
+      },
+      {
+        "clubName": "Accounting Society",
+        "id": "c2",
+        "image": "https://images.pexels.com/photos/839011/pexels-photo-839011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "description": "Whats new in counting things...",
+        "symbol": "https://images.pexels.com/photos/839011/pexels-photo-839011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "category": "Academic Associations"
+      },
+      {
+        "clubName": "Aero Mavericks",
+        "id": "c3",
+        "image": "https://images.pexels.com/photos/839011/pexels-photo-839011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "description": "We are aerospace engineering student organization",
+        "symbol": "https://images.pexels.com/photos/839011/pexels-photo-839011.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+        "category": "Academic Associations"
+      }
+      
+    ],
+    "CLUB_CATEGORIES": [
+      {
+        "id": "c1",
+        "category": "Academic Associations"
+      },
+      {
+        "id": "c2",
+        "category": "Cultural/International"
+      },
+      {
+        "id": "c3",
+        "category": "Recreational/Sports"
+      },
+      {
+        "id": "c4",
+        "category": "Religious"
+      },
+      {
+        "id": "c5",
+        "category": "Social Fraternities/Sororities"
+      },
+      {
+        "id": "c6",
+        "category": "Professional Societies"
+      },
+      {
+        "id": "c7",
+        "category": "Special Interests"
+      }
+    ]
+}

@@ -1,5 +1,5 @@
 # Univent
-<img src="images/event_pic1.jpeg" width= "800" >
+<img src="frontend/src/images/event_pic1.jpeg" width= "800" >
 
 <b>WHAT IS UNIVENT/MERNSTACK? </b>
 

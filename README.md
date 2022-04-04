@@ -1,7 +1,7 @@
 # Univent
 <p float="left">
-  <img src="images/Dashboard.png" width= "500" >
-  <img src="images/Clubs.png" width= "500" >
+  <img src="images/Dashboard.png" width= "400" >
+  <img src="images/Clubs.png" width= "400" >
   <img src="images/SignIn.png" width= "500" >
   <img src="images/Events.png" width= "500" >
   <img src="images/Forms.png" width= "500" >

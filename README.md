@@ -1,8 +1,9 @@
 # Univent
-<img src="images/Dashboard.png" width= "800" >
-<img src="images/Clubs.png" width= "800" >
-<img src="images/Events.png" width= "800" >
-<img src="images/Profile.png" width= "800" >
+<img src="images/Dashboard.png" width= "400" >
+<img src="images/SingIn.png" width= "400" >
+<img src="images/Clubs.png" width= "400" >
+<img src="images/Events.png" width= "400" >
+<img src="images/Profile.png" width= "400" >
 
 <b>WHAT IS UNIVENT/MERNSTACK? </b>
 

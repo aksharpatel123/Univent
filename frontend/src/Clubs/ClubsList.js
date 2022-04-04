@@ -87,12 +87,12 @@ const ClubsList = (props) => {
             placeholder="Search Clubs"
             aria-label="Search Clubs"
             aria-describedby="basic-addon2"
-            style={{ height: "60%", width: "70%", margin: "1%" }}
+            style={{ height: "20%", width: "70%", margin: "1%" }}
           />
 
           <Button
             type="submit"
-            style={{ height: "60%", width: "25%", margin: "1%" }}
+            style={{ height: "20%", width: "25%", margin: "1%" }}
           >
             SEARCH
           </Button>

@@ -76,7 +76,7 @@ const Profile = () => {
                       />
                       <Card.Text>Student ID: </Card.Text>
                       <FormControl
-                        placeholder="I STILL NEED STUDENT ID"
+                        placeholder="12345678"
                         aria-label="Recipient's username"
                         aria-describedby="basic-addon2"
                         disabled

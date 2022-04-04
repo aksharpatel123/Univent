@@ -1,5 +1,13 @@
 # Univent
-<img src="frontend/src/images/event_pic1.jpeg" width= "800" >
+<p float="left">
+  <img src="images/Dashboard.png" width= "500" >
+  <img src="images/Clubs.png" width= "500" >
+  <img src="images/SignIn.png" width= "500" >
+  <img src="images/Events.png" width= "500" >
+  <img src="images/Forms.png" width= "500" >
+  <img src="images/Profile.png" width= "500" >
+  <img src="images/Interests.png" width= "500" >
+</p>
 
 <b>WHAT IS UNIVENT/MERNSTACK? </b>
 

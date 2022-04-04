@@ -4,10 +4,9 @@
   <img src="images/Dashboard.png" width= "400" >
   <img src="images/Clubs.png" width= "400" >
   <img src="images/SignIn.png" width= "400" >
-  <img src="images/Events.png" width= "400" >
-  <img src="images/Forms.png" width= "400" >
-  <img src="images/Profile.png" width= "400" >
   <img src="images/Interests.png" width= "400" >
+  <img src="images/Profile.png" width= "400" >
+  <img src="images/Forms.png" width= "400" >
 </p>
 
 
